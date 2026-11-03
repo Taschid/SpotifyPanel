@@ -71,6 +71,7 @@ They are never logged, and **Disconnect Spotify** revokes them.
 
 | Path | Purpose |
 | --- | --- |
+| `SPEC.md` | current build specification (architecture, UI, API, settings) |
 | `SpotifyPanel.plugin.js` | single-file BetterDiscord panel (UI, auth, Web API) |
 | `screenshots/` | panel captures used by this README |
 | `docs/` | build log, scope, music-bot and transport specs |
