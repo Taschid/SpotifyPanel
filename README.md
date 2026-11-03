@@ -11,6 +11,8 @@ nothing to install beyond the plugin file.
 
 ![SpotifyPanel playlist view with the compact bottom bar](screenshots/discord-playlists.png)
 
+![Sending a track to Discord with the command sheet](screenshots/demo-command-sheet.png)
+
 ## Features
 
 - **Player panel** docked to the right edge: album art, title, artist, shuffle,
