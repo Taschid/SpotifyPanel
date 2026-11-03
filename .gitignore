@@ -1,0 +1,7 @@
+# Local Spotify credentials and BetterDiscord state
+*.config.json
+*.tokens.json
+
+# Dependency / scratch
+node_modules/
+*.log
